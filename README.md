@@ -6,3 +6,6 @@ Optional Razor Client for Angel Island. Modified to ensure players are using an 
  If Razor fails the handshake, and ForceGMNRZR is set, the user will get a dialog about 20 seconds after logging in informing them of the rule, and that they will be disconnected or warned.</br>
  This feature is optional and can be turned on/off server-side.</br>
  See Scripts\misc\RazorNegotiator.cs in the server for a complete explanation.
+
+# Video
+https://youtu.be/fgz0tpYZosg
